@@ -16,5 +16,13 @@ With a strong foundation in coding and web design, I'm always seeking opportunit
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,r" />
+    <img src="https://skillicons.dev/icons?i=javascript,php,mysql" /><br>
+</div>
+
+
 #
 
