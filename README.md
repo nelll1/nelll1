@@ -2,7 +2,7 @@
 
 **` (Frontend Developer)`**
 
-Hello, everyone! I'm a self-taught front-end web developer and a fresh graduate eager to kickstart my career.
+Hello, everyone! I'm a self-taught front-end web developer and a fresh graduate.
 With a strong foundation in coding and web design, I'm always seeking opportunities to learn new skills and contribute my best to the world of web development.
 
 
