@@ -10,7 +10,7 @@ With a strong foundation in coding and web design, I'm always seeking opportunit
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,php,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,php,MySQL,jquery" /><br>
 </div>
 
 
